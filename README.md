@@ -8,4 +8,5 @@
   <summary>2020 Goals</summary>
   <li>🦀 Become a Rustacean! Currently reading <a href="https://doc.rust-lang.org/book/">The Rust Programming Language</a>
   <li>🌱 Learn more about cryptography</li>
+  <li>💪 Become more valuable to the GitHub community and get my first sponsor!</li>
 </details>
