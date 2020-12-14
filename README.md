@@ -20,4 +20,4 @@ Some things you should know about life:
 - If you can't say something nice, maybe you shouldn't say anything at all.
 - You should [contribute to open source every friday](https://github.blog/2017-06-27-contribute-on-open-source-friday/) (or, even better, every weekday).
 
-> partial taken from https://github.com/MikeMcQuaid/MikeMcQuaid; thank you!
+> Partial taken from https://github.com/MikeMcQuaid/MikeMcQuaid; thank you!
