@@ -6,7 +6,7 @@ Passionate about learning and tooling, an advocate for best practices, lover of 
 - Sometimes I write articles on [dev.to](https://dev.to/jef).
 - Feel free to follow me on [Twitter](https://twitter.com/hijxf).
 
-> If you like what you see, feel free to [email me](mailto:jeffreylec@gmail.com?subject=Hi%20Jef).
+> If you like what you see, feel free to [email me](mailto:jeffreylec@gmail.com?subject=Hi%20Jef) or message me on [LinkedIn](https://www.linkedin.com/in/jeflecompte).
 
 ---
 
