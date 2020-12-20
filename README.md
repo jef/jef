@@ -8,6 +8,8 @@ Passionate about learning and tooling, an advocate for best practices, lover of 
 
 > If you like what you see, feel free to [email me](mailto:jeffreylec@gmail.com?subject=Hi%20Jef) or message me on [LinkedIn](https://www.linkedin.com/in/jeflecompte).
 
+[keybase.io](https://keybase.io/jeflecompte) | pgp: 0x6F3336B45BE04F283EFFB3AE7F5BA322B5DC170C
+
 ---
 
 Some things you should know about life:
