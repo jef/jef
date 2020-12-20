@@ -4,7 +4,7 @@ Passionate about learning and tooling, an advocate for best practices, lover of 
 
 - I work at [Greenlight Financial Technology](https://www.greenlightcard.com).
 - Sometimes I write articles on [dev.to](https://dev.to/jef).
-- Feel free to follow me on [Twitter](https://twitter.com/hijxf).
+- Feel free to follow me on [Twitter](https://twitter.com/jeflecompte).
 
 > If you like what you see, feel free to [email me](mailto:jeffreylec@gmail.com?subject=Hi%20Jef) or message me on [LinkedIn](https://www.linkedin.com/in/jeflecompte).
 
