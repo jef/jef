@@ -1,6 +1,6 @@
 # hi, i'm jef lecompte
 
-Passionate about learning and tooling, an advocate for best practices, lover of tackling tech debt, and enjoys bike-shedding from time to time.
+Passionate about learning and tooling, an advocate for best practices, a lover of tackling tech debt, and enjoys bike-shedding from time to time.
 
 - I work at [Greenlight Financial Technology](https://www.greenlightcard.com).
 - Sometimes I write articles on [dev.to](https://dev.to/jef).
