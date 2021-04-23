@@ -4,7 +4,7 @@ Passionate about learning and tooling, an advocate for best practices, a lover o
 
 - I work at [Greenlight Financial Technology](https://www.greenlightcard.com).
 - Sometimes I write articles on [dev.to](https://dev.to/jef).
-- Feel free to follow me on [Twitter](https://twitter.com/jeflecompte) or [LinkedIn](https://www.linkedin.com/in/jeflecompte).
+- Check out my [LinkedIn](https://www.linkedin.com/in/jeflecompte).
 
 pgp: 0x6F3336B45BE04F283EFFB3AE7F5BA322B5DC170C
 
